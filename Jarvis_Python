@@ -104,7 +104,7 @@ def cmd():
         print(current_time)
         speak(current_time)
     elif 'who is god' in text:
-        speak('Ajitheyyy Kadavuleyy')
+        speak('Divine,Eternal,Infinite')
     elif 'what is your name' in text:
         speak('My name is Jarvis Your Artificial Intelligence')
 
